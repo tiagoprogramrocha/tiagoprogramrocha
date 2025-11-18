@@ -32,7 +32,7 @@ Projeto simples para treinar HTML, CSS e organização de layout.
 
 ### 🔹 🐍 **Sistema de Cadastro em Python**
 Aplicação básica com menu interativo para treinar lógica de programação.  
-➡️ httpsgithub.com/tiagoprogramrocha/sistema-cadastro-python
+➡️ https://github.com/tiagoprogramrocha/sistema-cadastro-python
 
 ### 🔹 🛒 **Loja de Produtos (Frontend)**
 Site simples com listagem de produtos e carrinho em JavaScript.  
